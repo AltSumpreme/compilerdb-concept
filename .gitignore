@@ -1,0 +1,9 @@
+# Build outputs
+build/
+examples/sample_project/build/
+
+# Runtime artifacts
+*.cgdb
+/graph.dot
+/graph.png
+/self.cgdb
